@@ -20,3 +20,5 @@ QA it means taht quality of assurance, it dosn't mean that every task should go 
 for example if a developer done his/her task to the tester should test and project manager should see the resalut and check we use QA
 
 
+
+https://trello.com/             <<-- the best website to use kanban board for free to use is trello for agile board 
